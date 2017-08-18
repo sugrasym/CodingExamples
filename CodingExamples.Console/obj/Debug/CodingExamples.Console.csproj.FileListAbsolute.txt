@@ -1,6 +1,0 @@
-C:\Users\vagrant\Source\Repos\CodingExamples\CodingExamples.Console\bin\Debug\CodingExamples.Console.exe.config
-C:\Users\vagrant\Source\Repos\CodingExamples\CodingExamples.Console\bin\Debug\CodingExamples.Console.exe
-C:\Users\vagrant\Source\Repos\CodingExamples\CodingExamples.Console\bin\Debug\CodingExamples.Console.pdb
-C:\Users\vagrant\Source\Repos\CodingExamples\CodingExamples.Console\obj\Debug\CodingExamples.Console.csprojResolveAssemblyReference.cache
-C:\Users\vagrant\Source\Repos\CodingExamples\CodingExamples.Console\obj\Debug\CodingExamples.Console.exe
-C:\Users\vagrant\Source\Repos\CodingExamples\CodingExamples.Console\obj\Debug\CodingExamples.Console.pdb
